@@ -20,6 +20,12 @@ Took part in hackathons.Created NLP models based on text classification.Have exp
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
 - Bioinformatics Institute: Fundamentals of statistics
 
+### 👷 Work Experience:
+I have experience working in a startup that automated customer support in chats and
+emails.
+* Performed data markup for natural language processing tasks (data cleaning,annotation).I have further trained open-source NLP models to improve their performance on applied tasks.
+* Participated in the classification of emails - whether they were spam or phishing .He developed approaches for detecting text created by man or machine.
+* Engaged in NER (searching for entities in the text) for further correct response to the user
 
 ### 🏆Competitions
 *  Alpha Hack - Work with large dataset.Use Gradient Boosted Trees for binary classification,clustering and Incremental PCA for reducing the dimension of the data. 
@@ -28,6 +34,7 @@ Took part in hackathons.Created NLP models based on text classification.Have exp
 ### 😼Pet Projects:
 * [Bitcoin price prediction](https://github.com/gorshockk/Bitcoin-price-prediction)
 * [Fraud/Not Fraud](https://github.com/gorshockk/credit_card)
+* [Financial analysis]()
 
 ### 🌍Languages
 *   English: Upper Intermediate (B2)
