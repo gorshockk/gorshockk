@@ -6,7 +6,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=40 alt="Telegram logo">
 </a>
 
-[my CV](https://drive.google.com/file/d/1pmf4HGUuSY9vpEE0xQ-VI2pbBkKOyF1R/view?usp=sharing)
 
 ### ☀️Summary
 
