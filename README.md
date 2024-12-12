@@ -33,7 +33,7 @@ emails.
 ### 😼Pet Projects:
 * [Bitcoin price prediction](https://github.com/gorshockk/Bitcoin-price-prediction)
 * [Fraud/Not Fraud](https://github.com/gorshockk/credit_card)
-* [Financial analysis]()
+* [Financial analysis](https://github.com/gorshockk/test_2_task)
 
 ### 🌍Languages
 *   English: Upper Intermediate (B2)
