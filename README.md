@@ -34,6 +34,7 @@ emails.
 * [Bitcoin price prediction](https://github.com/gorshockk/Bitcoin-price-prediction)
 * [Fraud/Not Fraud](https://github.com/gorshockk/credit_card)
 * [Financial analysis](https://github.com/gorshockk/test_2_task)
+* [Finding entity in text](https://github.com/gorshockk/1_test_task)
 
 ### 🌍Languages
 *   English: Upper Intermediate (B2)
