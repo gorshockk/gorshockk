@@ -1,7 +1,6 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 <h1 align="left">Hi, I'm Arslan 👋</h1>
-<h1>Data Scientist (ML)</h1>
 <a href="https://t.me/houba_booba" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=40 alt="Telegram logo">
 </a>
@@ -13,18 +12,6 @@ Took part in hackathons.Created NLP models based on text classification.Have exp
 
 ### 🐘Education 
 <a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Computer Science | 2022-2026
-
-### 👨‍🎓Additional Education
-- [Yandex Handbook](https://education.yandex.ru/handbook/ml)
-- [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
-- Bioinformatics Institute: Fundamentals of statistics
-
-### 👷 Work Experience:
-I have experience working in a startup that automated customer support in chats and
-emails.
-* Performed data markup for natural language processing tasks (data cleaning,annotation).I have further trained open-source NLP models to improve their performance on applied tasks.
-* Participated in the classification of emails - whether they were spam or phishing .He developed approaches for detecting text created by man or machine.
-* Engaged in NER (searching for entities in the text) for further correct response to the user
 
 ### 🏆Competitions
 *  Alpha Hack - Work with large dataset.Use Gradient Boosted Trees for binary classification,clustering and Incremental PCA for reducing the dimension of the data. 
