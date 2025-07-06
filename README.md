@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Arslan 👋</h1>
 <a href="https://t.me/houba_booba" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=10 alt="Telegram logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" height=1 alt="Telegram logo">
 </a>
 
 
